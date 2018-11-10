@@ -11,6 +11,10 @@
 # PART I: LANGUAGE 
 
 ## Chapter 2 Program Structure ![progress](http://progressed.io/bar/100?title=completed "progress")
+- [ ] Complete chessboard exercise.
+- [ ] Complete fizzBuzz exercise.
+- [ ] Complete loopingTriangle exercise.
+- [ ] Create test's  for all exercises.
 
 ## Chapter 3 Functions ![progress](http://progressed.io/bar/100?title=completed "progress")
 
